@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "product": "LumixX",
+  "updatedAt": "",
+  "mod": {
+    "version": "0.0.0",
+    "file": "HassleMod.dll",
+    "url": "",
+    "sha256": ""
+  },
+  "launcher": {
+    "version": "0.0.0",
+    "file": "LumixXLauncher.exe",
+    "url": "",
+    "sha256": ""
+  }
+}
