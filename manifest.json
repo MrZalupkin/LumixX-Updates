@@ -1,17 +1,17 @@
 {
     "schemaVersion":  1,
     "product":  "LumixX",
-    "updatedAt":  "2026-11-22T12:47:52.8163523+00:00",
+    "updatedAt":  "2026-11-27T15:15:40.5615861+00:00",
     "mod":  {
-                "version":  "1.0.0",
+                "version":  "1.0.2",
                 "file":  "HassleMod.dll",
-                "url":  "https://github.com/MrZalupkin/LumixX-Updates/releases/download/mod-v1.0.0/HassleMod.dll",
-                "sha256":  "d4513f206e29c4a28ef087ac19d0580a2e410551ffee9c312b4feeff2b01843f"
+                "url":  "https://github.com/MrZalupkin/LumixX-Updates/releases/download/mod-v1.0.2/HassleMod.dll",
+                "sha256":  "584e9ef87a916275006047b323184047a3c2cb94ec31a0f9b2bc00a739f88ca4"
             },
     "launcher":  {
-                     "version":  "1.0.2",
+                     "version":  "1.0.3",
                      "file":  "LumixXLauncher.exe",
-                     "url":  "https://github.com/MrZalupkin/LumixX-Updates/releases/download/launcher-v1.0.2/LumixXLauncher.exe",
-                     "sha256":  "21d2fc43b520f90ed728eb087f7dadf451bdfa8d67dfa811e4befdd7dffb7764"
+                     "url":  "https://github.com/MrZalupkin/LumixX-Updates/releases/download/launcher-v1.0.3/LumixXLauncher.exe",
+                     "sha256":  "af4140b431abd9e2b8c35a7413b5256dbac28616dcb187b02e51e75daebadc87"
                  }
 }
